@@ -169,7 +169,7 @@ function updateTodo($id, $todo, $connection) {
     </style>
 </head>
 <body>
-    <div class="header">Welcome to SenDevOps - 3-Tier PHP Todo App</div>
+    <div class="header">Welcome to GurDevOps - 3-Tier PHP Todo App</div>
     <div class="wrapper">
         <form method="post" action="index.php">
             <div>
@@ -206,8 +206,8 @@ function updateTodo($id, $todo, $connection) {
         <?php } ?>
     </div>
     <div class="footer">
-        <div class="banner">Welcome to SenDevOps</div>
-        All rights reserved by SenDevOps
+        <div class="banner">Welcome to GurDevOps</div>
+        All rights reserved by GurDevOps
     </div>
 </body>
 </html>
