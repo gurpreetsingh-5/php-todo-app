@@ -1,28 +1,6 @@
 # php-todo-app
 ## Output
 ![image](https://github.com/user-attachments/assets/6c5b5464-d7b8-446e-afcb-f25804bcff69)
-<!-- <table>
-  <tr>
-    <td>
-      <a href="https://youtu.be/jehqpSE6gBE?si=QIgqcP6f_OEdUNZs" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=jehqpSE6gBE&title=Part+-+19.+Deploying+PHP+Todo+App+on+Kubernetes+with+MySQL+and+phpMyAdmin+Configuration+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
-        alt="Part - 19. Deploying PHP Todo App on Kubernetes with MySQL and phpMyAdmin Configuration | @SenDevOps" width="250" style="border-radius:5px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://youtu.be/Ra36g3BBT_I?si=TYIYLHX53eke_J7w" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=Ra36g3BBT_I&title=Part+-+20.+Deploy+3+Tier+PHP+Application+on+Kubernetes+Using+ArgoCD+%7C+%40SenDevOps+%23devops&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
-        alt="Part - 20. Deploy 3 Tier PHP Application on Kubernetes Using ArgoCD | @SenDevOps #devops" width="250" style="border-radius:5px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://youtu.be/LD7CVc_CyGE?si=T3xXtJpW6tnRnG6F" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=LD7CVc_CyGE&title=Part+-+21.+PHP+3+Tier+Application+Deploy+on+Kubernetes+%7C+Host+Problem+Solved+%7C+%40SenDevOps+%23devops&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
-        alt="Part - 21. PHP 3 Tier Application Deploy on Kubernetes | Host Problem Solved | @SenDevOps #devops" width="250" style="border-radius:5px;">
-      </a>
-    </td>
-  </tr>
-</table> -->
 
 
 # Get DNS of a Service Programmatically
